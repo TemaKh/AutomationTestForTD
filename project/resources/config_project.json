@@ -1,0 +1,28 @@
+{
+  "url_web" : "http://localhost:8181/web",
+  "url_api" : "http://localhost:8181/api",
+  "url_auth" : "http://{}:{}@localhost:8181/web",
+  "web_auth" : {
+    "login" : "",
+    "password" : ""
+  },
+  "db_auth" : {
+    "login" : "",
+    "password" : ""
+  },
+  "testrail_auth" : {
+    "login" : "",
+    "password" : ""
+  },
+  "db_connect" : {
+    "host" : "localhost",
+    "port" : 3307,
+    "db_name" : "union_reporting"
+  },
+  "name_screen" : "image.png",
+  "cloudinary" : {
+    "cloud_name" : "clouddd",
+    "api_key" : "354261747819761",
+    "api_secret" : "2Spg5L6WfKReUQrDdHAshhAcLXU"
+  }
+}

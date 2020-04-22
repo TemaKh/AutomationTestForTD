@@ -1,0 +1,9 @@
+{
+  "browser" : "chrome",
+  "localization" : "ru",
+  "wait" : 20,
+  "download_path" : "./download",
+  "wait_download" : 3,
+  "command_executor": "http://qa-auto-nexus:4444/wd/hub",
+  "how_to_run" : "local"
+}
